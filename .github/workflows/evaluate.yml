@@ -17,4 +17,4 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Run Vibe Evaluator
-        uses: VibeCodeArena/vibe-evaluator@v1
+        uses: VibeCodeArena/vibe-evaluator@main
